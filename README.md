@@ -32,7 +32,7 @@
 <br/>
 
 ---
-[![Deepank's github stats](https://github-readme-stats.vercel.app/api?username=deepank120896&count_private=true)]
+![Deepank's github stats](https://github-readme-stats.vercel.app/api?username=deepank120896&count_private=true)
 ---
 
 <br/>
