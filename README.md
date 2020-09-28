@@ -11,6 +11,7 @@
 ### Connect with me:
 [<img align="left" alt="deepank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="fitterdeepank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="31kartik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -40,3 +41,4 @@
 [company]: https://www.aciworldwide.com
 [linkedin]: https://www.linkedin.com/in/deepankkartikey
 [instagram]: https://www.instagram.com/fitterdeepank/
+[facebook]: https://www.facebook.com/31kartik/
