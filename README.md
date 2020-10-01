@@ -13,6 +13,8 @@ I’m looking to collaborate with others to create new projects. My 2020 goal is
 
 <br />
 
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code"/>
@@ -30,8 +32,9 @@ I’m looking to collaborate with others to create new projects. My 2020 goal is
 
 <br/>
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepank120896)](https://github.com/deepank120896/github-readme-stats)   
-![Deepank's github stats](https://github-readme-stats.vercel.app/api?username=deepank120896&count_private=true)
 
 <br/>
 
