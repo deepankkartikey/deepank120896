@@ -1,12 +1,10 @@
-### Hi there, I'm Deepank [website] 👋
+### Hi, I'm Deepank 👋
 
-## I'm a Developer !
+I'm a Full Stack Developer from India. I currently work as a Software Engineer at [ACI Worldwide][company]. I am a 2018 graduate.
 
-- 🔭 I’m currently working at [ACI Worldwide][company]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others to create new projects
-- 🥅 2020 Goals: Contribute to github on regular basis
-- ⚡ Fun fact: I am a fitness enthusisast 
+If I'm not in front of my laptop coding or browsing, I'm likely doing some kind of fitness related stuff or eating my favourite cuisines.
+
+I’m looking to collaborate with others to create new projects. My 2020 goal is toContribute to github on regular basis.
 
 ### Connect with me:
 [<img align="left" alt="deepank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,7 +29,6 @@
 <img align="left" title="Terminal" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepank120896)](https://github.com/deepank120896/github-readme-stats)   
 ![Deepank's github stats](https://github-readme-stats.vercel.app/api?username=deepank120896&count_private=true)
