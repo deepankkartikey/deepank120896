@@ -32,12 +32,6 @@ I’m looking to collaborate with others to create new projects. My 2020 goal is
 
 <br/>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepank120896)](https://github.com/deepank120896/github-readme-stats)   
-
-<br/>
-
 [company]: https://www.aciworldwide.com
 [linkedin]: https://www.linkedin.com/in/deepankkartikey
 [instagram]: https://www.instagram.com/fitterdeepank/
