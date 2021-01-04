@@ -4,7 +4,7 @@ I'm a Full Stack Developer from India. I currently work as a Software Engineer a
 
 If I'm not in front of my laptop coding or browsing, I'm likely doing some kind of fitness related stuff or eating my favourite cuisines.
 
-Looking to collaborate with others to create new projects. My 2020 goal is to Contribute to github on regular basis.
+Looking to collaborate with others to create new projects. My 2021 goal is to Contribute to github on regular basis.
 
 ### Connect with me:
 [<img align="left" alt="deepank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
