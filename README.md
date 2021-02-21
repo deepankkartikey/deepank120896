@@ -6,6 +6,8 @@ If I'm not in front of my laptop coding or browsing, I'm likely doing some kind 
 
 Looking to collaborate with others to create new projects. My 2021 goal is to Contribute to github on regular basis, learn and master Data structures and Algorithms.
 
+Generate mock data: [Mockaroo](https://www.mockaroo.com/)
+
 ### Connect with me:
 [<img align="left" alt="deepank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="fitterdeepank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
