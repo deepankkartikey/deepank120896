@@ -1,6 +1,6 @@
 ### Hi, I'm [Deepank](https://deepankkartikey.netlify.app/) 👋
 
-I'm a Developer from India, currently working as a Java Software Engineer at [ACI Worldwide][company]. I am a 2018 graduate.
+I'm a Developer from India, currently working as a Java Software Engineer at [ACI Worldwide][company].
 
 If I'm not in front of my laptop coding or browsing, I'm likely doing some kind of fitness related stuff or eating my favourite cuisines.
 
