@@ -1,6 +1,6 @@
 ### Hi, I'm [Deepank](https://deepankkartikey.netlify.app/) 👋
 
-I'm a Developer from India, currently working as a Java Software Engineer at [ACI Worldwide][company].
+I'm currently pursuing my Master's in computer science at [University of Ottawa][university]. In the past, I have worked as a Software Engineer for over 3 years for [ACI Worldwide][company].
 
 If I'm not in front of my laptop coding or browsing, I'm likely doing some kind of fitness related stuff or eating my favourite cuisines.
 
@@ -34,6 +34,7 @@ Generate mock data: [Mockaroo](https://www.mockaroo.com/)
 
 <br/>
 
+[university]: https://www2.uottawa.ca/en
 [company]: https://www.aciworldwide.com
 [linkedin]: https://www.linkedin.com/in/deepankkartikey
 [instagram]: https://www.instagram.com/fitterdeepank/
