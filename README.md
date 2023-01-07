@@ -4,7 +4,7 @@ I'm currently pursuing my Master's in computer science at [University of Ottawa]
 
 If I'm not in front of my laptop coding or browsing, I'm likely doing some kind of fitness related stuff or eating my favourite cuisines.
 
-Looking to collaborate with others to create new projects. My 2022 goal is to Contribute to github on regular basis, learn and master Data structures and Algorithms.
+Looking to collaborate with others to create new projects. My 2023 goal is to Contribute to github on regular basis, learn and master Data structures and Algorithms.
 
 ### Connect with me:
 [<img align="left" alt="deepank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
