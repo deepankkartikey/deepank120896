@@ -1,10 +1,10 @@
 ### Hi, I'm [Deepank](https://deepankkartikey.netlify.app/) 👋
 
-I'm graduating with a Master's in computer science at [University of Ottawa][university]. In the past, I have worked as a Programmer Analyst, and Software Engineer.
+I'm a Master's in computer science graduate from [University of Ottawa][university]. In the past, I have worked as a Programmer Analyst, and Software Engineer.
 
 If I'm not in front of my laptop coding or browsing, I'm likely doing some fitness-related stuff or eating my favorite cuisines.
 
-I am looking to collaborate with others to create new projects. My 2023 goal is to Contribute to Git Hub and Open Source on a regular basis.
+I am looking to collaborate with others to create new projects. My 2024 goal is to work on projects collaboratively and enhance my skillset.
 
 ### Connect with me:
 [<img align="left" alt="deepank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
