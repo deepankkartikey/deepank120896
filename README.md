@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/deepankkartikey/">
     <img src="https://shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a/>
@@ -21,11 +17,6 @@
 - 🌱 I am looking to collaborate with others to create new projects. My 2024 goal is to work on projects collaboratively and enhance my skillset.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Deepank-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepankkartikey)
 - ⚡ Fun fact: If I'm not in front of my laptop coding or browsing, I'm likely doing some fitness-related stuff or eating my favorite cuisines. 😊
-### Connect with me:
-[<img align="left" alt="deepank.kartikey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="31kartik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
 
 ---
 
